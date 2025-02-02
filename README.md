@@ -1,3 +1,4 @@
+
 # Data-Pipeline-Migration-to-GCP #
 ## Overview
   #### Gans is a startup developing an e-scooter sharing system. It aims to operate in the world's most populated cities. In each city, the company will have hundreds of e-scooters parked on the streets and allow users to rent them by the minute. Dynamic information such as population, weather and flight arrival will help the Gans team better predict scooter usage and optimal scooter placement.
